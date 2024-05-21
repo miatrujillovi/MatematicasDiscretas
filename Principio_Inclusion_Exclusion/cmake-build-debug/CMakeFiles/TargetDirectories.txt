@@ -1,0 +1,3 @@
+C:/Users/kurom/MatematicasDiscretas/Principio_Inclusion_Exclusion/cmake-build-debug/CMakeFiles/Principio_Inclusion_Exclusion.dir
+C:/Users/kurom/MatematicasDiscretas/Principio_Inclusion_Exclusion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kurom/MatematicasDiscretas/Principio_Inclusion_Exclusion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

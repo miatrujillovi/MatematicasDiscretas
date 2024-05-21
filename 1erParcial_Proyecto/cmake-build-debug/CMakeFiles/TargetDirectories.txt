@@ -1,0 +1,3 @@
+C:/Users/kurom/MatematicasDiscretas/1erParcial_Proyecto/cmake-build-debug/CMakeFiles/MatematicasDiscretas.dir
+C:/Users/kurom/MatematicasDiscretas/1erParcial_Proyecto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kurom/MatematicasDiscretas/1erParcial_Proyecto/cmake-build-debug/CMakeFiles/rebuild_cache.dir

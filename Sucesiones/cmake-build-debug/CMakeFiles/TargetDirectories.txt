@@ -1,0 +1,3 @@
+C:/Users/kurom/MatematicasDiscretas/Sucesiones/cmake-build-debug/CMakeFiles/Sucesiones.dir
+C:/Users/kurom/MatematicasDiscretas/Sucesiones/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kurom/MatematicasDiscretas/Sucesiones/cmake-build-debug/CMakeFiles/rebuild_cache.dir

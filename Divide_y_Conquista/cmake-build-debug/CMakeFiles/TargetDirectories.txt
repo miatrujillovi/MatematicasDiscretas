@@ -1,0 +1,3 @@
+C:/Users/kurom/MatematicasDiscretas/Divide_y_Conquista/cmake-build-debug/CMakeFiles/Divide_y_Conquista.dir
+C:/Users/kurom/MatematicasDiscretas/Divide_y_Conquista/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kurom/MatematicasDiscretas/Divide_y_Conquista/cmake-build-debug/CMakeFiles/rebuild_cache.dir
